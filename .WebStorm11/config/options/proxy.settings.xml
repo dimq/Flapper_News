@@ -1,0 +1,10 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="USE_HTTP_PROXY" value="true" />
+    <option name="PROXY_HOST" value="proxy-cdb.ad.campus-eni.fr" />
+    <option name="PROXY_PORT" value="8080" />
+    <option name="PROXY_AUTHENTICATION" value="true" />
+    <option name="PROXY_LOGIN" value="dimitri.quenault2015" />
+    <option name="PROXY_EXCEPTIONS" value="localhost" />
+  </component>
+</application>
